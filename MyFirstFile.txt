@@ -1,1 +1,2 @@
 This is a read me file
+Wer are in the Git 101 session
